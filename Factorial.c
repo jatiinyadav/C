@@ -1,10 +1,14 @@
 #include <stdio.h>
+
+
 int main() {
     // Write C code here
     printf("Enter the no. you want fact : ");
     printf("The factorial is %d", fact());
     return 0;
 }
+
+
 int fact(int n)
 {
     int i;
