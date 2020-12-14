@@ -14,6 +14,8 @@ int main()
          scanf("%d", &disp[i][j]);
       }
    }
+
+   
    //Displaying array elements
    printf("Two Dimensional array elements:\n");
    for (i = 0; i < 2; i++)
